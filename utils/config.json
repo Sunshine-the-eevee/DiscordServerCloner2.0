@@ -1,9 +1,9 @@
 {
     "token":false,
-    "prefix": "!",
+    "prefix": "h.",
     "logs": true,
     "copy_settings": {
-        "categories": true,
+        "categories": false,
         "channels": true,
         "roles": true,
         "permissions": true,
